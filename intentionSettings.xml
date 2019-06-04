@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Other/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Initialization" />
+    <ignoreAction name="JavaScript/Join subsequent variable declarations" />
+  </component>
+</application>
